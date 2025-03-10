@@ -12,7 +12,7 @@
     </li>
     @else
     <li class= "nav-item">
-        <a class="nav-link" href="{{route('logout')}}">Logoff
+        <a class="nav-link" href="{{route('logoff')}}">Logoff
             <span class="glyphicon glyphicon-log-out"></span>
         </a>
     </li>
